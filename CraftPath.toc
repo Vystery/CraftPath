@@ -1,0 +1,22 @@
+## Interface: 16001
+## Title: CraftPath
+## Notes: The cheapest way to level a profession: a route to your target skill, a shopping list with Buy buttons, and a Craft next button that always picks the right recipe. Requires CraftProfit. Open from the book button in the profession window or /cpath.
+## Author: Vystery
+## Version: 0.3.0
+## SavedVariables: CraftPathDB
+## Dependencies: CraftProfit
+## OptionalDeps: ProfessionRecorder
+## IconTexture: Interface\Icons\INV_Misc_Book_11
+## X-Category: Professions
+## X-License: All Rights Reserved
+## X-Website: https://discord.gg/hbJXz7qqpJ
+
+Core.lua
+Data.lua
+Solver.lua
+Model.lua
+Recorder.lua
+Craft.lua
+Shop.lua
+UI.lua
+Report.lua
